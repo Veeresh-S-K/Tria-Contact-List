@@ -1,16 +1,33 @@
-# React + Vite
+# 📇 Contact List App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern contact manager built using **React + Vite**, styled with **TailwindCSS** and **Material UI (MUI)**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
+🔗 [View the deployed app](https://tria-contact-list-129u.vercel.app/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- Add, edit, and delete contacts  
+- Create and manage groups (Friends, Work, etc.)  
+- Search and filter by name, email, or phone number  
+- Mark contacts as favourites ❤️  
+- Toggle between dark and light modes 🌙☀️  
+- Fully responsive, professional UI with Material UI components  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Tech Stack
+- **Frontend:** React + Vite  
+- **UI:** Material UI (MUI), TailwindCSS  
+- **Deployment:** Vercel  
+
+---
+
+## ⚙️ Running Locally
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/<your-username>/contact-list.git
+   cd contact-list
