@@ -6,7 +6,7 @@ A modern contact manager built using **React + Vite**, styled with **TailwindCSS
 
 - Add, edit, and delete contacts  
 - Create and manage groups (Friends, Work, etc.)  
-- Search and filter by name, email, or phone number  
+- Search and filter by name or phone number  
 - Mark contacts as favourites  
 - Toggle between dark and light modes
 
