@@ -4,7 +4,7 @@ A modern contact manager built using **React + Vite**, styled with **TailwindCSS
 
 🔗 [View the deployed app](https://tria-contact-list-129u.vercel.app/)
 
-- Add, edit, and delete contacts  
+- Add, edit, and delete contacts with their email and notes(click on the contact to expand it) 
 - Create and manage groups (Friends, Work, etc.)  
 - Search and filter by name or phone number  
 - Mark contacts as favourites  
