@@ -22,3 +22,4 @@ A modern contact manager built using **React + Vite**, styled with **TailwindCSS
    ```bash
    git clone https://github.com/veeresh-S-K/contact-list.git
    cd contact-list
+   npn run dev
